@@ -1,8 +1,7 @@
-# LITE-XMD
-simple js whatsapp bot by A KNOWN YUTMAN
+
 <p align="center">  
-  <a href="https://files.catbox.moe/m9jwkt.jpeg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/m9jwkt.jpeg">
+  <a href="https://files.catbox.moe/n6dmx3.jpeg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/n6dmx3.jpeg">
     <h1 align="center"> LITE-XMD - POWERED BY Yutman</h1>
   </a>
 </p>  
@@ -11,9 +10,8 @@ simple js whatsapp bot by A KNOWN YUTMAN
 
 <p align="center">
   <a href="https://github.com/yutman11"><img title="Author" src="https://img.shields.io/badge/charleske-black?style=for-the-badge&logo=Github"></a> 
-  
-  <a href="https://wa.me/254792949282"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-</p>
+  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
+  <a href="https://wa.me/25471077266"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
 ---
 
@@ -31,7 +29,7 @@ simple js whatsapp bot by A KNOWN YUTMAN
 
 ### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/yutman 11/LITE-XMD)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/yutman11/BMW-MD/network/members)
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  
