@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <a href="https://files.catbox.moe/n6dmx3.jpeg">
+  <a href="https://files.catbox.moe/m9jwkt.jpeg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/n6dmx3.jpeg">
     <h1 align="center"> LITE-XMD - POWERED BY Yutman</h1>
   </a>
